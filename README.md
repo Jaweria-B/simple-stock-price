@@ -1,4 +1,4 @@
-# Stock Price Tracker with Streamlit
+# Stock Price Tracker
 
 This Streamlit application allows users to track real-time stock prices using the yfinance library. Users can select from a range of companies, including industry giants like Amazon, Apple, and Microsoft, and visualize their closing prices and trading volumes over the past decade.
 
@@ -14,7 +14,7 @@ This Streamlit application allows users to track real-time stock prices using th
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your_username/stock-price-tracker.git
+    git clone https://github.com/Jaweria-B/simple-stock-price.git
     ```
 
 2. Install the required dependencies:
