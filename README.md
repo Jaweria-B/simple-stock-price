@@ -33,6 +33,9 @@ This Streamlit application allows users to track real-time stock prices using th
 
 5. Select a company from the dropdown menu to view its stock data.
 
+## Demo
+[Live Demo](https://simple-stock-price.streamlit.app/)
+
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request.
