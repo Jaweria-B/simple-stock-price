@@ -26,7 +26,7 @@ This Streamlit application allows users to track real-time stock prices using th
 3. Run the Streamlit app:
 
     ```bash
-    streamlit run app.py
+    streamlit run myapp.py
     ```
 
 4. Open the provided URL in your web browser to access the application.
